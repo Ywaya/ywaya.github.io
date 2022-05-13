@@ -9,4 +9,5 @@ Resourceful, results-oriented, innovative, team player and analytically minded m
 
 ### Contact
 
-Email me via: ywayav@gmail.com. Follow me on LinkedIn: https://www.linkedin.com/in/vincent-olengo-a32a46215
+Email me via: ywayav@gmail.com.
+Follow me on [LinkedIn](https://www.linkedin.com/in/vincent-olengo-a32a46215)
