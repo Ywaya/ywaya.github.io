@@ -5,7 +5,7 @@ subtitle: Beginner's guide to the Linux terminal
 categories: Markdown
 tags: [Markdown, Linux terminal commands]
 ---
-#Fundamental Linux Commands
+# Fundamental Linux Commands
 - 'To open terminal' *click ctrl + alt + t*
 - 'To zoom in" *click ctrl + +*
 - 'To zoom out' *click ctrl + -*
